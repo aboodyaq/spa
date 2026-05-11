@@ -1,2 +1,0 @@
-# spakaza
-nothing
